@@ -1,0 +1,80 @@
+{
+  "version": 2,
+  "dgSpecHash": "YRmp5Wef/JU=",
+  "success": true,
+  "projectFilePath": "/home/shahir/RiderProjects/JervisChatBot/JervisChatBot/JervisChatBot.csproj",
+  "expectedPackageFiles": [
+    "/home/shahir/.nuget/packages/azure.core/1.51.1/azure.core.1.51.1.nupkg.sha512",
+    "/home/shahir/.nuget/packages/azure.resourcemanager/1.13.2/azure.resourcemanager.1.13.2.nupkg.sha512",
+    "/home/shahir/.nuget/packages/azure.resourcemanager.appservice/1.4.1/azure.resourcemanager.appservice.1.4.1.nupkg.sha512",
+    "/home/shahir/.nuget/packages/azuretoolkit/2.5.0/azuretoolkit.2.5.0.nupkg.sha512",
+    "/home/shahir/.nuget/packages/microsoft.bcl.asyncinterfaces/10.0.2/microsoft.bcl.asyncinterfaces.10.0.2.nupkg.sha512",
+    "/home/shahir/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.2/microsoft.extensions.configuration.abstractions.10.0.2.nupkg.sha512",
+    "/home/shahir/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.2/microsoft.extensions.dependencyinjection.abstractions.10.0.2.nupkg.sha512",
+    "/home/shahir/.nuget/packages/microsoft.extensions.diagnostics.abstractions/10.0.2/microsoft.extensions.diagnostics.abstractions.10.0.2.nupkg.sha512",
+    "/home/shahir/.nuget/packages/microsoft.extensions.fileproviders.abstractions/10.0.2/microsoft.extensions.fileproviders.abstractions.10.0.2.nupkg.sha512",
+    "/home/shahir/.nuget/packages/microsoft.extensions.hosting.abstractions/10.0.2/microsoft.extensions.hosting.abstractions.10.0.2.nupkg.sha512",
+    "/home/shahir/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.2/microsoft.extensions.logging.abstractions.10.0.2.nupkg.sha512",
+    "/home/shahir/.nuget/packages/microsoft.extensions.options/10.0.2/microsoft.extensions.options.10.0.2.nupkg.sha512",
+    "/home/shahir/.nuget/packages/microsoft.extensions.primitives/10.0.2/microsoft.extensions.primitives.10.0.2.nupkg.sha512",
+    "/home/shahir/.nuget/packages/microsoft.windowsazure.configurationmanager/1.7.0/microsoft.windowsazure.configurationmanager.1.7.0.nupkg.sha512",
+    "/home/shahir/.nuget/packages/newtonsoft.json/4.5.3/newtonsoft.json.4.5.3.nupkg.sha512",
+    "/home/shahir/.nuget/packages/system.clientmodel/1.9.0/system.clientmodel.1.9.0.nupkg.sha512",
+    "/home/shahir/.nuget/packages/system.diagnostics.diagnosticsource/10.0.2/system.diagnostics.diagnosticsource.10.0.2.nupkg.sha512",
+    "/home/shahir/.nuget/packages/system.io.pipelines/10.0.1/system.io.pipelines.10.0.1.nupkg.sha512",
+    "/home/shahir/.nuget/packages/system.memory.data/10.0.1/system.memory.data.10.0.1.nupkg.sha512",
+    "/home/shahir/.nuget/packages/system.text.encodings.web/10.0.1/system.text.encodings.web.10.0.1.nupkg.sha512",
+    "/home/shahir/.nuget/packages/system.text.json/10.0.1/system.text.json.10.0.1.nupkg.sha512",
+    "/home/shahir/.nuget/packages/windowsazure.storage/1.7.0/windowsazure.storage.1.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'AzureToolkit 2.5.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "projectPath": "/home/shahir/RiderProjects/JervisChatBot/JervisChatBot/JervisChatBot.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/shahir/RiderProjects/JervisChatBot/JervisChatBot/JervisChatBot.csproj",
+      "libraryId": "AzureToolkit",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'Microsoft.WindowsAzure.ConfigurationManager 1.7.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "projectPath": "/home/shahir/RiderProjects/JervisChatBot/JervisChatBot/JervisChatBot.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/shahir/RiderProjects/JervisChatBot/JervisChatBot/JervisChatBot.csproj",
+      "libraryId": "Microsoft.WindowsAzure.ConfigurationManager",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'Newtonsoft.Json 4.5.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "projectPath": "/home/shahir/RiderProjects/JervisChatBot/JervisChatBot/JervisChatBot.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/shahir/RiderProjects/JervisChatBot/JervisChatBot/JervisChatBot.csproj",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'WindowsAzure.Storage 1.7.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "projectPath": "/home/shahir/RiderProjects/JervisChatBot/JervisChatBot/JervisChatBot.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/shahir/RiderProjects/JervisChatBot/JervisChatBot/JervisChatBot.csproj",
+      "libraryId": "WindowsAzure.Storage",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
